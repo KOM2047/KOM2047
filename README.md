@@ -57,5 +57,5 @@ Here are some of my public repositories you can explore:
 ---
 
 ## 📬 Let’s Connect
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
-- 🌐 [Portfolio/Website](https://yourwebsite.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kabelo-modimoeng)  
+- 🌐 [Portfolio/Website](https://kom2047.github.io/Personal-Portfolio/)
