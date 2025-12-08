@@ -2,6 +2,9 @@
 
 Here is my GitHub profile overview!
 
+I am currently pursuing a **Graduate Engineering program** with a focus on **AI/Low Code Engineering**, **Data Engineering**, and **Cloud Engineering**. I am passionate about leveraging these technologies to build efficient and scalable solutions.
+Checkout my repositories for more details!
+
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=KOM2047&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KOM2047&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
