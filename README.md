@@ -1,20 +1,61 @@
-## Hi there 👋
+# 👋 Hi, I'm Kabelo Modimoeng
 
-Here is my GitHub profile overview!
+🚀 **Junior Software Developer | DataSecOps Specialist | Cloud & AI Enthusiast**
 
-I am currently pursuing a **Graduate Engineering program** with a focus on **AI/Low Code Engineering**, **Data Engineering**, and **Cloud Engineering**. I am passionate about leveraging these technologies to build efficient and scalable solutions.
-Checkout my repositories for more details!
+I design **secure, automated data infrastructures** that integrate cloud, AI, DevOps, and data engineering.  
+Currently transitioning into new roles with **Project Y** and **Capaciti**, after completing a **Systems Development Learnership** and capstone bootcamp.
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KOM2047&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KOM2047&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>
+---
 
-<div align="center"> 
-  <h3>Technologies</h3>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</div>
+## 🛠️ Skills & Tools
+- ☁️ **Cloud Architecture (AWS, Azure)** – Serverless (Lambda), Containers (Docker), S3 storage  
+- 🗄️ **Advanced SQL & Warehousing** – Complex schemas, analytics pipelines, compliance-ready structures  
+- 🐍 **Python Automation** – ETL, transformation scripts, workflow orchestration  
+- 🤖 **AI Integration** – Azure AI Engineer certified, building intelligent data workflows  
+- 📊 **Data Governance & Compliance** – GDPR, POPIA, secure pipelines  
 
+---
+
+## 🎓 Certifications
+- ✅ Microsoft 365 Fundamentals (**MS-900**)  
+- ✅ Azure AI Fundamentals (**AI-900**)  
+- ✅ Designing & Implementing AI Solutions (**AI-102**)  
+
+---
+
+## 📂 Featured Projects
+Here are some of my public repositories you can explore:
+
+- **[Personal-Portfolio](https://github.com/KOM2047/Personal-Portfolio)** → My professional portfolio site  
+- **[Portfolio-Projects](https://github.com/KOM2047/Portfolio-Projects)** → Python projects showcasing automation and analytics  
+- **[InputCounterAPI](https://github.com/KOM2047/InputCounterAPI)** → C# API project (MIT licensed)  
+- **[AuthDemo](https://github.com/KOM2047/AuthDemo)** → Authentication demo in C#  
+- **[My-CV-Website](https://github.com/KOM2047/My-CV-Website)** → Personal CV/resume website  
+
+---
+
+## 📈 GitHub Metrics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KOM2047&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KOM2047&layout=compact&theme=radical)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=KOM2047&theme=radical)
+
+---
+
+## 🎯 Career Goals
+- Secure a **Data Engineer / Cloud Architect** role leveraging bootcamp & capstone experience  
+- Deepen expertise in **Data Governance & Compliance** within cloud environments  
+- Expand **Azure AI** skills for advanced RAG architectures  
+- Build a portfolio that showcases **business value + technical integration**
+
+---
+
+## 🌱 Current Focus
+- Preparing for **PL-500, PL-900, and Azure AI certifications**  
+- Building portfolio projects that demonstrate **secure, scalable pipelines**  
+- Documenting workflows with **Markdown, cheat sheets, and visual guides**
+
+---
+
+## 📬 Let’s Connect
+- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
+- 🌐 [Portfolio/Website](https://yourwebsite.com)
