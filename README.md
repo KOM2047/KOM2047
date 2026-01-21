@@ -1,59 +1,59 @@
 # 👋 Hi, I'm Kabelo Modimoeng
 
-🚀 **Junior Software Developer | DataSecOps Specialist | Cloud & AI Enthusiast**
-
-I design **secure, automated data infrastructures** that integrate cloud, AI, DevOps, and data engineering.  
-Currently transitioning into new roles with **Project Y** and **Capaciti**, after completing a **Systems Development Learnership** and capstone bootcamp.
+### Data Engineer Practitioner
+> A certified Data Engineer specializing in Azure Cloud, building robust ETL pipelines, and transforming raw data into business intelligence.
 
 ---
 
-## 🛠️ Skills & Tools
-- ☁️ **Cloud Architecture (AWS, Azure)** – Serverless (Lambda), Containers (Docker), S3 storage  
-- 🗄️ **Advanced SQL & Warehousing** – Complex schemas, analytics pipelines, compliance-ready structures  
-- 🐍 **Python Automation** – ETL, transformation scripts, workflow orchestration  
-- 🤖 **AI Integration** – Azure AI Engineer certified, building intelligent data workflows  
-- 📊 **Data Governance & Compliance** – GDPR, POPIA, secure pipelines  
+## 🛠️ Skills & Technologies
 
----
-
-## 🎓 Certifications
-- ✅ Microsoft 365 Fundamentals (**MS-900**)  
-- ✅ Azure AI Fundamentals (**AI-900**)  
-- ✅ Designing & Implementing AI Solutions (**AI-102**)  
+| Cloud & Infrastructure | Data Engineering | Development |
+|------------------------|------------------|-------------|
+| **Azure** | **SQL / Data Warehousing** | **Python / PySpark** |
+| Microsoft SQL Server | ETL Pipelines | FastAPI |
+| PostgreSQL | Data Modeling | Streamlit |
+| Data Security | AI Fundamentals | ASP.NET MVC |
 
 ---
 
 ## 📂 Featured Projects
-Here are some of my public repositories you can explore:
 
-- **[Personal-Portfolio](https://github.com/KOM2047/Personal-Portfolio)** → My professional portfolio site  
-- **[Portfolio-Projects](https://github.com/KOM2047/Portfolio-Projects)** → Python projects showcasing automation and analytics  
-- **[InputCounterAPI](https://github.com/KOM2047/InputCounterAPI)** → C# API project (MIT licensed)  
-- **[AuthDemo](https://github.com/KOM2047/AuthDemo)** → Authentication demo in C#  
-- **[My-CV-Website](https://github.com/KOM2047/My-CV-Website)** → Personal CV/resume website  
+### 🎓 [Student Records Platform](https://github.com/KOM2047/Student-Records-Management-System)
+**Cloud-hosted data platform managing student lifecycles.**
+*   **Tech Stack**: Python, PostgreSQL, Pandas, Render Cloud.
+*   **Highlights**: Features a 3NF PostgreSQL schema, Pandas ETL pipelines, and automated business logic.
 
----
+### 🛡️ [AI Expense Guardian](https://github.com/KOM2047/Eye-SpendAI)
+**Real-time receipt audit and risk prediction.**
+*   **Tech Stack**: Streamlit, OpenShift, Docker.
+*   **Highlights**: Uses simulated AI for OCR & risk scoring to automate expense approvals.
 
-## 📈 GitHub Metrics
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=KOM2047&theme=radical)
-
----
-
-## 🎯 Career Goals
-- Secure a **Data Engineer / Cloud Architect** role leveraging bootcamp & capstone experience  
-- Deepen expertise in **Data Governance & Compliance** within cloud environments  
-- Expand **Azure AI** skills for advanced RAG architectures  
-- Build a portfolio that showcases **business value + technical integration**
+### 🧠 [Study_ZoneAI](https://github.com/KOM2047/Study_ZoneAI)
+**AI-powered study companion using Google Gemini.**
+*   **Tech Stack**: Python, FastAPI, Google Gemini.
+*   **Demo**: [Live App](https://study-zone-ai.vercel.app/)
+*   **Highlights**: Summarizes docs, generates cheat sheets & quizzes, and enables chat-with-doc.
 
 ---
 
-## 🌱 Current Focus
-- Preparing for **PL-500, PL-900, and Azure AI certifications**  
-- Building portfolio projects that demonstrate **secure, scalable pipelines**  
-- Documenting workflows with **Markdown, cheat sheets, and visual guides**
+## 🎓 Certifications
+
+**Microsoft & Azure**
+*   **Azure AI Engineer Associate** (AI-102)
+*   **Azure AI Fundamentals** (AI-900)
+*   **Microsoft 365 Fundamentals** (MS-900)
+*   **Power Platform Fundamentals**
+
+**Coursera & Google**
+*   **Agile with Atlassian Jira** (Coursera)
+*   **Version Control with Git** (Coursera)
+*   **Generative AI with Large Language Models** (Coursera)
+*   **Introduction to Generative AI** (Google Cloud)
 
 ---
 
 ## 📬 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/kabelo-modimoeng)  
-- 🌐 [Portfolio/Website](https://kom2047.github.io/Personal-Portfolio/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kabelo-modimoeng)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://kom2047.github.io/Professional-Portfolio/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kabeloofentsemodimoeng@gmail.com)
